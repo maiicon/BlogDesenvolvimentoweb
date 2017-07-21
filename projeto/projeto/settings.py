@@ -25,7 +25,7 @@ SECRET_KEY = ')maaqma(sj7_8cq-7-faz%usqhl+g!5o7v+*we4exxd4$a^cr+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['maiicon.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
